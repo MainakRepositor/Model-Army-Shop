@@ -14,3 +14,5 @@ A model army shop counter record keeper using Tkinter and Python GUI
 | Name of Creator | Start Date | End Date | Duration | Project Type | Deploy |
 |-----------------|------------|----------|----------|--------------|--------|
 | Mainak Chaudhuri | 15-11-2021 | 20-12-2021 | 5 days | GUI, DBMS | NULL |
+
+🛑 OUT OF ORDER
